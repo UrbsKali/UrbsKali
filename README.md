@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=urbskali&hide=issues&show_icons=true&count_private=true&theme=radical)<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbskali&hide=html&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbskali&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **UrbsKali/UrbsKali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
