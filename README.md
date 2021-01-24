@@ -2,7 +2,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=urbskali&hide=issues&show_icons=true&count_private=true&theme=radical)<br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbskali&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📚 Language that I know :
 
@@ -13,6 +13,6 @@
 &nbsp; &nbsp; ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
 <br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1BfCnjr_Vjg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbskali&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📂 My Projects :
