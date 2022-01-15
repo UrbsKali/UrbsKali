@@ -10,8 +10,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1B7FDE?style=for-the-badge&logo=CSS3&logoColor=white)
 ![PhP](https://img.shields.io/badge/-PHP-1DDEC1?style=for-the-badge&logo=PhP&logoColor=white)
-&nbsp; &nbsp; ![Python](https://img.shields.io/badge/-Python-E426D6?style=for-the-badge&logo=Python&logoColor=white)
-![dart](https://img.shields.io/badge/-Dart-E426D6?style=for-the-badge&logo=Dart&logoColor=white)
+&nbsp; &nbsp; ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![dart](https://img.shields.io/badge/-Dart-darkblue?style=for-the-badge&logo=Dart&logoColor=white)
+![go](https://img.shields.io/badge/-Go-blue?style=for-the-badge&logo=Go&logoColor=white)
+![lua](https://img.shields.io/badge/-Lua-E426D6?style=for-the-badge&logo=Lua&logoColor=white)
+
+
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urbskali&hide=html,css&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
