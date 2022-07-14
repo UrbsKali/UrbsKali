@@ -3,7 +3,7 @@
 <a href="https://discord.com/users/423567995609022464"> <img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/423567995609022464?idleMessage=Probably%20doing%20something%20else..."/> </a>
 <a href="https://urbskali.github.io/">📜Website</a>
 ## 📋 Profile
-➡️ 16 yo French student <br>
+➡️ 17 yo French student <br>
 ➡️ Having fun with debuging ! <br>
 ➡️ Cool <a href="https://urbskali.itch.io/">games</a> 
 <br><br><br><br><br><br><br>
