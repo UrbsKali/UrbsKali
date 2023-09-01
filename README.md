@@ -1,4 +1,3 @@
-<img src="https://github.com/UrbsKali/UrbsKali/blob/main/Hello.png"/>
 
 ![](https://komarev.com/ghpvc/?username=UrbsKali&color=blue&style=for-the-badge)
 ## 📋 Profile
