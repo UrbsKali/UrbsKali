@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=UrbsKali&color=blue&style=for-the-badge)
 ## 📋 Profile
-➡️ 17 yo French student <br>
+➡️ 18 yo French student <br>
 ➡️ Having fun with debuging ! <br>
 ➡️ Cool <a href="https://urbskali.itch.io/">games</a> 
 <br><br>
